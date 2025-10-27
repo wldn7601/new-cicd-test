@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int a = 1;
-        int b = 2;
+        int a = 11;
+        int b = 21;
         int sum = a + b;
-        System.out.println("1 + 2 = " + sum);
+        System.out.println(a+" + "+ b + sum);
     }
 }
 
